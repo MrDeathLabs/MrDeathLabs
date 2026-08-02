@@ -1,165 +1,521 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:8B0000&height=250&section=header&text=MrDeathLabs&fontSize=80&fontColor=ffffff&animation=fadeIn"/>
+<!--
+███████╗███╗   ███╗██████╗ ███████╗ █████╗ ████████╗██╗  ██╗
+██╔════╝████╗ ████║██╔══██╗██╔════╝██╔══██╗╚══██╔══╝██║  ██║
+█████╗  ██╔████╔██║██████╔╝█████╗  ███████║   ██║   ███████║
+██╔══╝  ██║╚██╔╝██║██╔══██╗██╔══╝  ██╔══██║   ██║   ██╔══██║
+███████╗██║ ╚═╝ ██║██║  ██║███████╗██║  ██║   ██║   ██║  ██║
+╚══════╝╚═╝     ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝
+
+              CYBER ENGINEERING LAB
+-->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:050505,30:0A192F,55:4B0082,80:8A2BE2,100:FF003C&text=MrDeathLabs&fontSize=85&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40"/>
+
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=Cybersecurity;Software+Engineering;Systems+Engineering;DevOps+%26+Infrastructure;Game+Technology;Building+Secure+Systems"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Cybersecurity+Engineering;Software+Development;Systems+%26+Network+Engineering;DevOps+%26+Infrastructure;Game+Technology;Building+Secure+Systems"/>
 
 </p>
 
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=MrDeathLabs&style=for-the-badge&color=red"/>
+<img src="https://komarev.com/ghpvc/?username=MrDeathLabs&style=for-the-badge&color=8A2BE2"/>
 
-<img src="https://img.shields.io/github/followers/MrDeathLabs?style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/MrDeathLabs?style=for-the-badge&color=FF003C"/>
 
-<img src="https://img.shields.io/github/stars/MrDeathLabs?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/MrDeathLabs?style=for-the-badge&color=0A192F"/>
 
 </p>
+
+
+<p align="center">
+
+<a href="https://github.com/MrDeathLabs">
+<img src="https://img.shields.io/badge/GitHub-MrDeathLabs-050505?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Projects-Laboratory-8A2BE2?style=for-the-badge&logo=code"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/System-Online-FF003C?style=for-the-badge&logo=statuspage"/>
+</a>
+
+</p>
+
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=8A2BE2&height=3"/>
 
 
 # 💀 MrDeathLabs
 
-## Cybersecurity • Software Engineering • Infrastructure
+## Cyber Engineering Laboratory
 
-Building secure systems, automation tools, server infrastructure,
-and software projects.
+```yaml
+identity:
+  name: MrDeathLabs
+  type: Cyber Engineering Lab
+
+domains:
+  - Cybersecurity
+  - Software Engineering
+  - Infrastructure
+  - Networking
+  - DevOps
+  - Game Technology
+
+mission:
+  - Build secure systems
+  - Create useful software
+  - Automate everything possible
+  - Learn and improve continuously
+```
+
 
 ---
 
-# 🧠 Technical Focus
+# 🖥️ System Operations Center
 
-## 🔐 Cybersecurity
 
-- Application Security
+<p align="center">
+
+<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00FF00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SECURITY-ACTIVE-FF003C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NETWORK-CONNECTED-0A192F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/BUILD-OPERATIONAL-8A2BE2?style=for-the-badge"/>
+
+</p>
+
+
+```text
+╔══════════════════════════════════════════╗
+║          💀 MRDEATHLABS CORE             ║
+╠══════════════════════════════════════════╣
+║                                          ║
+║  SECURITY SYSTEMS                        ║
+║  ├─ Defense Operations       🟢 ONLINE   ║
+║  ├─ Security Research        🟣 ACTIVE   ║
+║  └─ Monitoring Systems       🔴 READY    ║
+║                                          ║
+║  DEVELOPMENT ENGINE                      ║
+║  ├─ Software Projects        🟢 ACTIVE   ║
+║  ├─ Automation Pipeline      🟣 ENABLED  ║
+║  └─ Testing Environment      🔵 READY    ║
+║                                          ║
+║  INFRASTRUCTURE LAYER                    ║
+║  ├─ Servers                  🔵 ONLINE   ║
+║  ├─ Networks                 🟢 HEALTHY  ║
+║  └─ Cloud Systems            🔵 READY    ║
+║                                          ║
+║  GAME TECHNOLOGY LAB                     ║
+║  ├─ Game Servers             🟢 ONLINE   ║
+║  ├─ Modding Systems          🟣 ACTIVE   ║
+║  └─ Community Platforms      🔵 RUNNING  ║
+║                                          ║
+╚══════════════════════════════════════════╝
+```
+
+
+---
+
+# 🧠 Technical Domains
+
+
+<table>
+<tr>
+
+<td width="25%">
+
+## 🔐 Security
+
+- Cybersecurity
 - Network Security
-- Vulnerability Management
-- Security Automation
+- Application Security
 - Threat Analysis
-- System Hardening
+- Hardening
+
+</td>
 
 
-## 🖥 Systems & Infrastructure
+<td width="25%">
 
-- Linux Administration
-- Server Management
-- Networking
-- Cloud Infrastructure
-- Performance Optimization
-- Monitoring
+## 💻 Development
 
-
-## ⚙️ DevOps
-
-- CI/CD
-- Docker
-- Automation
-- Infrastructure as Code
-- Deployment Systems
-
-
-## 💻 Software Development
-
-- Backend Development
+- Software Engineering
+- Backend Systems
 - APIs
-- Automation Tools
-- Database Systems
-- Web Applications
+- Databases
+- Automation
 
+</td>
+
+
+<td width="25%">
+
+## 🌐 Infrastructure
+
+- Linux
+- Servers
+- Networking
+- Cloud
+- DevOps
+
+</td>
+
+
+<td width="25%">
 
 ## 🎮 Game Technology
 
 - Game Servers
-- FiveM Development
 - Modding
-- Server Optimization
-- Community Platforms
+- Frameworks
+- Communities
+- Platforms
+
+</td>
+
+</tr>
+</table>
 
 
 ---
 
-# 🛠️ Technology Stack
+# ⚡ Engineering Philosophy
 
 
-## Languages
-
-![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript)
-![CSharp](https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=csharp)
-![Lua](https://img.shields.io/badge/Lua-black?style=for-the-badge&logo=lua)
-![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=postgresql)
-
-
-## Security
-
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-black?style=for-the-badge&logo=kalilinux)
-![OWASP](https://img.shields.io/badge/OWASP-black?style=for-the-badge)
-![Wireshark](https://img.shields.io/badge/Wireshark-black?style=for-the-badge&logo=wireshark)
-
-
-## Infrastructure
-
-![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-black?style=for-the-badge&logo=kubernetes)
-![Terraform](https://img.shields.io/badge/Terraform-black?style=for-the-badge&logo=terraform)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-black?style=for-the-badge&logo=githubactions)
+```text
+BUILD.
+SECURE.
+AUTOMATE.
+OPTIMIZE.
+REPEAT.
+```
 
 
 ---
 
-# 📊 GitHub Analytics
+# 🛠️ Technology Arsenal
 
-
-<img src="https://github-readme-stats.vercel.app/api?username=MrDeathLabs&show_icons=true&theme=radical&hide_border=true"/>
-
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrDeathLabs&layout=compact&theme=radical&hide_border=true"/>
-
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MrDeathLabs&theme=radical&hide_border=true"/>
-
-
-<img src="https://github-profile-trophy.vercel.app/?username=MrDeathLabs&theme=radical&no-frame=true&row=2&column=4"/>
-
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MrDeathLabs&theme=redical"/>
+<p align="center">
+The tools, platforms, and technologies used across the MrDeathLabs environment.
+</p>
 
 
 ---
 
-# 📈 GitHub Metrics
+# 💻 Programming Languages
 
-<img src="./github-metrics.svg"/>
-
-
----
-
-# 🐍 Contribution Snake
-
-<img src="https://raw.githubusercontent.com/MrDeathLabs/MrDeathLabs/output/github-contribution-grid-snake.svg"/>
-
-
----
-
-# 🚀 Projects
-
-Coming soon...
-
-
----
-
-# 📫 Contact
-
-GitHub:
-https://github.com/MrDeathLabs
-
-
----
 
 <p align="center">
 
-Built with 🖤 by MrDeathLabs
+<img src="https://skillicons.dev/icons?i=python,js,ts,cs,lua,html,css,sql,bash,powershell&theme=dark"/>
 
 </p>
+
+
+<table align="center">
+<tr>
+<td>
+
+<h2 align="center">💻 Development Capability Matrix</h2>
+
+<table>
+
+<tr>
+<td>
+<img src="https://skillicons.dev/icons?i=python&theme=dark" width="35"/>
+</td>
+<td><b>Python</b></td>
+<td>
+<img src="https://progress-bar.dev/95/?width=200&color=8A2BE2"/>
+</td>
+<td><b>95%</b></td>
+</tr>
+
+
+<tr>
+<td>
+<img src="https://skillicons.dev/icons?i=js&theme=dark" width="35"/>
+</td>
+<td><b>JavaScript</b></td>
+<td>
+<img src="https://progress-bar.dev/80/?width=200&color=FF003C"/>
+</td>
+<td><b>80%</b></td>
+</tr>
+
+
+<tr>
+<td>
+<img src="https://skillicons.dev/icons?i=ts&theme=dark" width="35"/>
+</td>
+<td><b>TypeScript</b></td>
+<td>
+<img src="https://progress-bar.dev/75/?width=200&color=0A192F"/>
+</td>
+<td><b>75%</b></td>
+</tr>
+
+
+<tr>
+<td>
+<img src="https://skillicons.dev/icons?i=cs&theme=dark" width="35"/>
+</td>
+<td><b>C#</b></td>
+<td>
+<img src="https://progress-bar.dev/65/?width=200&color=8A2BE2"/>
+</td>
+<td><b>65%</b></td>
+</tr>
+
+
+<tr>
+<td>
+<img src="https://skillicons.dev/icons?i=lua&theme=dark" width="35"/>
+</td>
+<td><b>Lua</b></td>
+<td>
+<img src="https://progress-bar.dev/80/?width=200&color=FF003C"/>
+</td>
+<td><b>80%</b></td>
+</tr>
+
+
+<tr>
+<td>
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="35"/>
+</td>
+<td><b>SQL</b></td>
+<td>
+<img src="https://progress-bar.dev/85/?width=200&color=0A192F"/>
+</td>
+<td><b>85%</b></td>
+</tr>
+
+
+</table>
+
+</td>
+</tr>
+</table>
+---
+
+# 🔐 Cybersecurity Arsenal
+
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=linux,bash,python,docker,git&theme=dark"/>
+
+</p>
+
+
+```text
+SECURITY DOMAIN
+
+🛡 System Security
+├── Linux Security
+├── Hardening
+├── Access Control
+└── Security Automation
+
+
+🌐 Network Security
+├── TCP/IP
+├── DNS
+├── Firewalls
+├── VPN Systems
+└── Network Analysis
+
+
+🔎 Security Operations
+├── Vulnerability Management
+├── Threat Analysis
+├── Monitoring
+├── Incident Response
+└── Security Research
+```
+
+---
+
+# ⚙️ Software Engineering Stack
+
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,react,nextjs,dotnet,express,git,github,vscode&theme=dark"/>
+
+</p>
+
+
+```text
+ENGINEERING
+
+Application Development
+Backend Systems
+API Design
+Software Architecture
+Database Systems
+Developer Tooling
+Automation Platforms
+```
+
+---
+
+# 🌐 Infrastructure & DevOps
+
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,terraform,nginx,aws,azure,cloudflare,githubactions&theme=dark"/>
+
+</p>
+
+
+```text
+INFRASTRUCTURE
+
+Operating Systems
+├── Linux
+├── Windows
+└── Server Environments
+
+
+Deployment
+├── Docker
+├── Containers
+├── CI/CD
+└── Automation
+
+
+Infrastructure
+├── Networking
+├── Cloud Systems
+├── Reverse Proxy
+└── Monitoring
+```
+
+---
+
+# 🗄️ Database Systems
+
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite&theme=dark"/>
+
+</p>
+
+
+```text
+DATA SYSTEMS
+
+Relational Databases
+├── PostgreSQL
+├── MySQL
+└── SQLite
+
+
+NoSQL / Cache
+├── MongoDB
+└── Redis
+```
+
+---
+
+# 🎮 Game Technology Lab
+
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=lua,cs,cpp,unity,unreal&theme=dark"/>
+
+</p>
+
+
+```text
+GAME SYSTEMS
+
+🎮 Server Development
+
+├── Game Servers
+├── Modding Systems
+├── Backend Services
+└── Community Platforms
+
+
+⚡ Optimization
+
+├── Performance Tuning
+├── Server Management
+├── Resource Optimization
+└── Player Experience
+```
+
+---
+
+# 🧰 Developer Environment
+
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github,windows,linux&theme=dark"/>
+
+</p>
+
+
+```text
+WORKSPACE
+
+Editors:
+VS Code
+Visual Studio
+
+Platforms:
+Linux
+Windows
+
+Version Control:
+Git
+GitHub
+
+Automation:
+GitHub Actions
+CI/CD
+```
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=8A2BE2&height=3"/>
+
+
+---
+
+# 🚀 Projects Laboratory
+
+COMING NEXT...
+
+
+---
+
+# 📊 GitHub Intelligence Center
+
+COMING NEXT...
+
+
+---
+
+# 🐍 Contribution Systems
+
+COMING NEXT...
+
+
+
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF003C,50:8A2BE2,100:0A192F&height=120&section=footer"/>
